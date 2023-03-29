@@ -1,5 +1,5 @@
 {
-  "name": "bitcoin-is-volatile-2",
+  "name": "bitcoin-is-volatile",
   "version": "1.0.0",
   "description": "Bitcoin suboptimal mining value alert known from HBO's Silicon Valley S05E03",
   "main": "index.js",
