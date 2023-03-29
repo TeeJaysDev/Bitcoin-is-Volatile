@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Bitcoin is Volatile",
+    "version": "1.0.0",
+    "description": "Bitcoin suboptimal mining value alert known from HBO's Silicon Valley S05E03",
+    "action": {
+        "default_pop": "popup.html",
+        "default_title": "Bitcoin is Volatile"
+    },
+    "author": "Tymon 'tajmon' Jędryczka",
+    "permissions": []
+}
